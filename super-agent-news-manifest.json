@@ -1,0 +1,37 @@
+{
+  "citations": [
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google"
+    },
+    {
+      "title": "Google Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com"
+    },
+    {
+      "title": "Why AI Agents Are the Next Great Technological Transformation",
+      "url": "https://time.com"
+    },
+    {
+      "title": "How to build a Responsive Bento Grid with CSS Grid (dense flow)",
+      "url": "https://css-tricks.com/the-auto-flowing-powers-of-grids-dense-keyword/"
+    }
+  ],
+  "design_plan": "Cinematic editorial layout with an AIDA flow. Hero uses Geist + Cabinet Grotesk stack, subtle GSAP entrance motion guarded for no\u2011JS fallback. Core content arranged in a responsive CSS Grid bento using grid-auto-flow: dense to avoid gaps. Comparisons framed fairly. Buttons high-contrast. Motion minimal and purposeful.",
+  "generated_at": "2026-06-29T18:51:55.047047+00:00",
+  "headline": "Super for creators and coaches\nturning conversations into content\nand operations",
+  "site_brief": {
+    "audience": "creators and coaches turning conversations into content and operations",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "creators and coaches turning conversations into content and operations AI assistant",
+      "creators and coaches turning conversations into content and operations personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-creators-and-coaches-turning-conversations-into",
+    "title": "Super for creators and coaches turning conversations into content and operations"
+  },
+  "summary": "A premium niche landing page positioning Super as the sharper alternative for creators and coaches who want personal AI agents that can operate computers and reuse a computer-use cache for repeated workflows\u2014backed by current reporting on computer\u2011use AI agents and workflow automation."
+}
